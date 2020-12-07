@@ -56,7 +56,7 @@
  }
  
  .block1 {
-     background-image: url(block1_back.jpg);
+     background-image: url(block1back.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      height: 24vw;
@@ -263,7 +263,7 @@
          display: none;
      }
      .block1 {
-         background-image: url(block1_back.jpg);
+         background-image: url(block1back.jpg);
          background-repeat: no-repeat;
          background-size: cover;
          height: 30vw;
